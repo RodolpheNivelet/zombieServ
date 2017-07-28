@@ -1,0 +1,19 @@
+{
+  "name": "zombieserv",
+  "version": "1.0.0",
+  "description": "Server for zombie fps",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RodolpheNivelet/zombieServ.git"
+  },
+  "author": "Rodolphe Nivelet <rodolphe.nivelet@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RodolpheNivelet/zombieServ/issues"
+  },
+  "homepage": "https://github.com/RodolpheNivelet/zombieServ#readme"
+}
